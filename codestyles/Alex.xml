@@ -1,0 +1,50 @@
+<code_scheme name="Alex">
+  <JSCodeStyleSettings>
+    <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </JSCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+    <arrangement>
+      <groups>
+        <group>
+          <type>GETTERS_AND_SETTERS</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>DEPENDENT_METHODS</type>
+          <order>BREADTH_FIRST</order>
+        </group>
+      </groups>
+    </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
