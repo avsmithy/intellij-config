@@ -9,6 +9,9 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <colors>
+    <option name="WHITESPACES" value="353535" />
+  </colors>
   <attributes>
     <option name="JAVA_KEYWORD">
       <value>
