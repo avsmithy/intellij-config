@@ -16,7 +16,9 @@
     </entry>
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="5.7.0" last-modified="1456201854000" />
+    </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/5.7.0/bin/node" />
   </component>
   <component name="RefactoringSettings">
