@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="File 'C:\dev\sbp\client\java\santander-mailer\src\test\java\com\santander\mailer\contactus\ContactUsMessageTest.java'" />
+    <option name="defaultScopeName" value="File 'C:\dev\sbp\client\java\santander-mailer\src\test\java\com\santander\mailer\contactus\ContactUsMessageTest.java'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="File 'C:\dev\sbp\client\java\santander-mailer\src\test\java\com\santander\mailer\contactus\ContactUsMessageTest.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
