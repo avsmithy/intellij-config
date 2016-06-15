@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="File 'C:\dev\sbp\client\java\santander-mailer\src\test\java\com\santander\mailer\contactus\ContactUsMessageTest.java'" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,8 +15,8 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.gradle</mask>
       <mask>*.js</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
