@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="blah" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="failing" type="PLAIN_TEXT" />
+      <mapping pattern="working" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
