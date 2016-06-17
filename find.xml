@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\dev\sbp\client\java\generic-data\src\test\java\com\santander\genericdata\GenericDataServletTest.java'" />
-    <option name="defaultScopeName" value="File 'C:\dev\sbp\client\java\generic-data\src\test\java\com\santander\genericdata\GenericDataServletTest.java'" />
+    <option name="customScope" value="File 'C:\dev\sbp\client\apps\santandertrader\libs\santander-control\src\san\control\TradeStatusCalendarControl.js'" />
+    <option name="defaultScopeName" value="File 'C:\dev\sbp\client\apps\santandertrader\libs\santander-control\src\san\control\TradeStatusCalendarControl.js'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'C:\dev\sbp\client\java\generic-data\src\test\java\com\santander\genericdata\GenericDataServletTest.java'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\dev\sbp\client\apps\santandertrader\libs\santander-control\src\san\control\TradeStatusCalendarControl.js'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
