@@ -8,7 +8,6 @@
       <mapping pattern="blah" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
