@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File 'C:\dev\sbp-caching\src\main\java\com\santander\sbp\caching\repository\domain\impl\GenericDataRepository.java'" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.js, *.html" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -20,6 +20,7 @@
       <mask>*.xml</mask>
       <mask>*.html</mask>
       <mask>*.js</mask>
+      <mask>*.js, *.html</mask>
     </recentFileMasks>
   </component>
 </application>
