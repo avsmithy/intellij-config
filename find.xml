@@ -5,12 +5,12 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="File 'C:\dev\sbp-caching\src\main\java\com\santander\sbp\caching\repository\domain\impl\GenericDataRepository.java'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.java</mask>
       <mask>*.conf</mask>
       <mask>*.properties</mask>
       <mask>*.xml</mask>
@@ -19,6 +19,7 @@
       <mask>*.js</mask>
       <mask>*.gradle</mask>
       <mask>*.less</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
