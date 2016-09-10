@@ -99,6 +99,28 @@
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/babel-transpiler-0.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.11, Ruby 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.11" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.11" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="bcrypt-ruby (v3.1.5, Ruby 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bcrypt-ruby-3.1.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bcrypt-ruby-3.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.2, Ruby 2.3.1) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/builder-3.2.2/lib" />
