@@ -81,6 +81,24 @@
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/arel-7.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="babel-source (v5.8.35, Ruby 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/babel-source-5.8.35/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/babel-source-5.8.35/lib" />
+      </SOURCES>
+    </library>
+    <library name="babel-transpiler (v0.7.0, Ruby 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/babel-transpiler-0.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/babel-transpiler-0.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.2, Ruby 2.3.1) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/builder-3.2.2/lib" />
@@ -238,6 +256,21 @@
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/gen" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/libtest" />
+      </SOURCES>
+    </library>
+    <library name="foundation-rails (v6.2.3.0, Ruby 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/foundation-rails-6.2.3.0/app" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/foundation-rails-6.2.3.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/foundation-rails-6.2.3.0/config" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/foundation-rails-6.2.3.0/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/foundation-rails-6.2.3.0/app" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/foundation-rails-6.2.3.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/foundation-rails-6.2.3.0/config" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/foundation-rails-6.2.3.0/vendor" />
       </SOURCES>
     </library>
     <library name="globalid (v0.3.7, Ruby 2.3.1) [gem]">
@@ -761,6 +794,15 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/sprockets-3.7.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/sprockets-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-es6 (v0.9.1, Ruby 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/sprockets-es6-0.9.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/sprockets-es6-0.9.1/lib" />
       </SOURCES>
     </library>
     <library name="sprockets-rails (v3.2.0, Ruby 2.3.1) [gem]">
