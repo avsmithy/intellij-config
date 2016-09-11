@@ -101,12 +101,14 @@
     </library>
     <library name="bcrypt (v3.1.11, Ruby 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.11" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.11" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
@@ -149,6 +151,7 @@
     </library>
     <library name="byebug (v9.0.5, Ruby 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.5" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/9.0.5" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/byebug-9.0.5/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/byebug-9.0.5/ext" />
@@ -156,6 +159,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.5" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/9.0.5" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/byebug-9.0.5/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/byebug-9.0.5/ext" />
@@ -200,12 +204,14 @@
     </library>
     <library name="debug_inspector (v0.0.2, Ruby 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/debug_inspector/0.0.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/debug_inspector/0.0.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
@@ -265,6 +271,7 @@
     </library>
     <library name="ffi (v1.9.14, Ruby 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.14" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ffi/1.9.14" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/gen" />
@@ -273,6 +280,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.14" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ffi/1.9.14" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/gen" />
@@ -560,6 +568,7 @@
     </library>
     <library name="nio4r (v1.2.1, Ruby 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/1.2.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nio4r/1.2.1" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/lib" />
@@ -567,6 +576,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/1.2.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nio4r/1.2.1" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/lib" />
@@ -575,6 +585,7 @@
     </library>
     <library name="nokogiri (v1.6.8, Ruby 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.8" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/ext" />
@@ -585,6 +596,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.8" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/ext" />
@@ -614,6 +626,7 @@
     </library>
     <library name="puma (v3.6.0, Ruby 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.6.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/3.6.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/puma-3.6.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/puma-3.6.0/ext" />
@@ -622,6 +635,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.6.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/3.6.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/puma-3.6.0/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/puma-3.6.0/ext" />
@@ -719,6 +733,7 @@
     </library>
     <library name="rb-fsevent (v0.9.7, Ruby 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.7" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rb-fsevent/0.9.7" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext" />
@@ -726,6 +741,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.7" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rb-fsevent/0.9.7" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext" />
@@ -838,6 +854,7 @@
     </library>
     <library name="sqlite3 (v1.3.11, Ruby 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/sqlite3/1.3.11" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/sqlite3/1.3.11" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.11/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.11/faq" />
@@ -846,6 +863,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/sqlite3/1.3.11" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/sqlite3/1.3.11" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.11/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.11/faq" />
@@ -952,12 +970,14 @@
     </library>
     <library name="websocket-driver (v0.6.4, Ruby 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.6.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/websocket-driver/0.6.4" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.6.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/websocket-driver/0.6.4" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/lib" />
