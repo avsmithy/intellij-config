@@ -1,14 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\dev\sbp-caching\src\main\java\com\santander\sbp\caching\repository\domain\impl\GenericDataRepository.java'" />
-    <option name="defaultScopeName" value="File 'C:\dev\sbp-caching\src\main\java\com\santander\sbp\caching\repository\domain\impl\GenericDataRepository.java'" />
-    <option name="localCaseSensitive" value="true" />
+    <option name="customScope" value="File '.../src/main/java/com/mock/trading/block/NovoBlockBTSTradeListener.java - [MockFXMultiAdapter_main]'" />
+    <option name="defaultScopeName" value="File '.../src/main/java/com/mock/trading/block/NovoBlockBTSTradeListener.java - [MockFXMultiAdapter_main]'" />
     <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'C:\dev\sbp-caching\src\main\java\com\santander\sbp\caching\repository\domain\impl\GenericDataRepository.java'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/mock/trading/block/NovoBlockBTSTradeListener.java - [MockFXMultiAdapter_main]'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -20,8 +19,9 @@
       <mask>*.html</mask>
       <mask>*.js, *.html</mask>
       <mask>*.js</mask>
-      <mask>*.gradle</mask>
       <mask>*.less</mask>
+      <mask>*.gradle</mask>
+      <mask>\</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
