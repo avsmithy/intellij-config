@@ -2,14 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../src/main/java/com/mock/trading/block/NovoBlockBTSTradeListener.java - [MockFXMultiAdapter_main]'" />
     <option name="defaultScopeName" value="File '.../src/main/java/com/mock/trading/block/NovoBlockBTSTradeListener.java - [MockFXMultiAdapter_main]'" />
-    <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/mock/trading/block/NovoBlockBTSTradeListener.java - [MockFXMultiAdapter_main]'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.java, *.js, *.xml" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -25,6 +23,8 @@
       <mask>*.gradle</mask>
       <mask>\</mask>
       <mask>*.java</mask>
+      <mask>*.java, *.js</mask>
+      <mask>*.java, *.js, *.xml</mask>
     </recentFileMasks>
   </component>
 </application>
