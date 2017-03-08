@@ -5,7 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/mock/trading/block/NovoBlockBTSTradeListener.java - [MockFXMultiAdapter_main]'" />
-    <option name="FILE_MASK" value="*.java, *.js, *.xml" />
+    <option name="FILE_MASK" value="*.java, *.js, *.xml, *.properties" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -23,6 +23,7 @@
       <mask>*.java</mask>
       <mask>*.java, *.js</mask>
       <mask>*.java, *.js, *.xml</mask>
+      <mask>*.java, *.js, *.xml, *.properties</mask>
     </recentFileMasks>
   </component>
 </application>
